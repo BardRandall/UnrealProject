@@ -14,3 +14,5 @@
 Конечная цель игры -- создать ракету и улететь с планеты.
 
 [Диаграмма](https://drive.google.com/file/d/1iix4bTyaJYrsFAMpZ1QvNoFP2uILXGY1/view?usp=sharing)
+
+[Диаграмма классов](https://drive.google.com/file/d/1TF8fXM_n1bSRP37ma30Kle-r9-B6IogY/view?usp=sharing)
